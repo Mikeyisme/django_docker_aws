@@ -1,1 +1,1 @@
-# django-docker-aws
+# django with docker on aws
